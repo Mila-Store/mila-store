@@ -1,0 +1,5 @@
+[33m18d41927[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Add proper .gitignore and configure for GitHub Pages
+[33m64f00f44[m Remove node_modules from git tracking
+[33mfcd42c55[m Configure Next.js for GitHub Pages deployment
+[33mb1bcf28e[m Initial Next.js project setup
+[33mb3358be6[m update website content

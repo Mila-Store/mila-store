@@ -1,0 +1,44 @@
+[33mcommit b3358be659a369dae4d7b08c757138a203841d92[m
+Author: mila-sotre <mila.store.cosmeticsandlingerie@gmail.com>
+Date:   Wed Sep 3 17:49:47 2025 +0200
+
+    update website content
+
+.next/BUILD_ID
+.next/app-build-manifest.json
+.next/app-path-routes-manifest.json
+.next/build-manifest.json
+.next/cache/.previewinfo
+.next/cache/.rscinfo
+.next/cache/.tsbuildinfo
+.next/cache/images/-MgYZCsBfAxVk5trJ_8lzLFqW_oh0X9i3nTmAPp1WBg/604800.1756917899142.LgdVhaklcdmCEOr74dUqwvwpXJXrkMQ94JKFeKAW9pU.IjYyNTEzNDBjY2NjNjRiOGUxMjJjM2MyYTY1OTNjOTgwIg.webp
+.next/cache/images/C0iq57O7u90vEgKfDDZRDAEz3A2kquvm9AZX6QzXp8Q/604800.1756917887740.2lDjgfeH92Zju74Mi7AnoDpQ8WxgKL0sX9i75m0vS6I.IjVkOWE1MzI3MDI2OWVlMDU2NGZmZjY4NzBiYzdjNWU2Ig.webp
+.next/cache/images/G8rTmLwgNMa8lzjusbhpogfG2D2t90CQzd6ucmZr3WE/31536000.1787849289051.m3fvCHNz8Izsm5SuQ8jPlXh5tiz6SvMtHxuakqWE5As.I9kG-AD9jeKjTyvxhHYOT6rN95yxb523IO8MLueR0lQ.webp
+.next/cache/images/Gb3qj-gcRV_YJJ92FAEjIFpYturow3THY7SIvOeS7VA/31536000.1787849351583.tl8uzEdrWnJUaQERgAqdp-kEBXNpFkKTii4WNbBMKJI.iNf1ZDDTt8-MFKtzs0QwHjwVNFQJYGxP8WlOnmZj8q8.webp
+.next/cache/images/KZNuTAF0H5aah-eLzCF9xCUsbJxu_G07-zfvw1_COd4/31536000.1787849283506.bmh4z7V7Ip_dlVS8Dy7Hm3E1c2Ib7jpSqko-PU8p4P0.d6xSfV3fIgLS4sAj2za_M-T81QNJr8z8XqV-JUegpUM.webp
+.next/cache/images/Ne_dInT1_W4pu1lPGyLl-l2XF1rKGNOUxL0p-MSWjto/31536000.1787849288986.M9tgDEjMP97FRee1toVM2gewd0Sdpz8ZugJB6gWu8qY.WQvZum2-FEwSt-AqdGLH_GHua3vGwucnoj5Z4XBc-nQ.webp
+.next/cache/images/O7z-fWH7LV1f7f2NBVK-pBZEicukvAyJqZ_wNobHMgQ/604800.1756917904136.2lDjgfeH92Zju74Mi7AnoDpQ8WxgKL0sX9i75m0vS6I.IjVkOWE1MzI3MDI2OWVlMDU2NGZmZjY4NzBiYzdjNWU2Ig.webp
+.next/cache/images/RQOuMxYQa7c0LWYdNRKBpPDG4T8RNqH7GJJAbwv-BCE/31536000.1787849347042.MfvrrzpeTAh8aZgLtCVvIzYdyEMfPTkicSToXB0HvDo.d6xSfV3fIgLS4sAj2za_M-T81QNJr8z8XqV-JUegpUM.webp
+.next/cache/images/X5tyenXtokCMqldE2x-yIleLGs5NETuvLH8xdN-80bM/604800.1756917904042.2lDjgfeH92Zju74Mi7AnoDpQ8WxgKL0sX9i75m0vS6I.IjVkOWE1MzI3MDI2OWVlMDU2NGZmZjY4NzBiYzdjNWU2Ig.webp
+.next/cache/images/XeCguRrs8kz15_QsDUkomIP5ZEdMlS01IIR2xnhV5go/604800.1756917899229.LgdVhaklcdmCEOr74dUqwvwpXJXrkMQ94JKFeKAW9pU.IjYyNTEzNDBjY2NjNjRiOGUxMjJjM2MyYTY1OTNjOTgwIg.webp
+.next/cache/images/XkbpBcMWlP85sD5D_HiubGT0X-pFm_WVQyaKBC_sB24/31536000.1787848867922.KYzovDOJAJvM-YWdGMuP0dFvzfJBlTwsKb94R6cNP0A.zDOZ1ErX63yZKnEk7TrWHFwcxv9CdzDgFw8DWil9ln0.webp
+.next/cache/images/Z3F_gWkujSiNfjXpbTIuk4gFD8fn6GB06l9yKAzgvVY/31536000.1787849275575.anNbUr3ypav-Kv8wphjea5lMGVup0sFTcd2xaFpnWr8.iNf1ZDDTt8-MFKtzs0QwHjwVNFQJYGxP8WlOnmZj8q8.webp
+.next/cache/images/laPC2xJ9GYk6heEmTPNRrVRR5kPqi_00qymXVsyyxJY/31536000.1787849274440.0l0lx9qqTveW5XuwaGuSyQKB9Y0d3M6wvoljrNW17FE.d6xSfV3fIgLS4sAj2za_M-T81QNJr8z8XqV-JUegpUM.webp
+.next/cache/images/saY79iOIbNP92DC-rqexc3teUDe91_-iGECpzkXqttk/31536000.1787848956803.qqUsiJTfgXgwvTMmj06MpOgd8OfegS8NRrSZoWyQ0Zo.6XgbVJ7Glo_1SCEzIqL8fXAbP5qGDt0eczGByv-H7JE.webp
+.next/cache/images/tb6_umwjea49WPqqNotSSFy10jjdJDep7XsxBAJe4vc/604800.1756917887748.LgdVhaklcdmCEOr74dUqwvwpXJXrkMQ94JKFeKAW9pU.IjYyNTEzNDBjY2NjNjRiOGUxMjJjM2MyYTY1OTNjOTgwIg.webp
+.next/cache/images/wkbpf_bL-c3zOseiqnp2QBBWC7NFg0Vu9NUEiSo4qqc/31536000.1787849289635.SxoT-TQFUE_2YdeTLwbJR8j0TUKyQUL0fyfcfcmUSPY.iNf1ZDDTt8-MFKtzs0QwHjwVNFQJYGxP8WlOnmZj8q8.webp
+.next/cache/images/zj4sMLUFuCgicFVq5-AAW2Q4f2NeSZpTtDNSQB7Ypgg/31536000.1787848949809.Ly2Lispuwtg4GWL1ghI5z-e0b3qKyJ0bvXCL-zfXlKo.zDOZ1ErX63yZKnEk7TrWHFwcxv9CdzDgFw8DWil9ln0.webp
+.next/cache/next-devtools-config.json
+.next/cache/webpack/client-development-fallback/0.pack.gz
+.next/cache/webpack/client-development-fallback/1.pack.gz
+.next/cache/webpack/client-development-fallback/index.pack.gz
+.next/cache/webpack/client-development-fallback/index.pack.gz.old
+.next/cache/webpack/client-development/0.pack.gz
+.next/cache/webpack/client-development/1.pack.gz
+.next/cache/webpack/client-development/10.pack.gz
+.next/cache/webpack/client-development/11.pack.gz
+.next/cache/webpack/client-development/12.pack.gz
+.next/cache/webpack/client-development/13.pack.gz
+.next/cache/webpack/client-development/14.pack.gz
+.next/cache/webpack/client-development/15.pack.gz
+.ne
